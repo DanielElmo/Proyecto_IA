@@ -1,7 +1,7 @@
 #Proyecto Final
 #Moreno Ulloa Daniel
 
-pip install apyori
+#pip install apyori
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
