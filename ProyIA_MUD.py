@@ -8,7 +8,7 @@ Created on Tue Nov 30 22:22:32 2021
 #Proyecto Final
 #Moreno Ulloa Daniel
 
-pip install apyori
+#pip install apyori
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
