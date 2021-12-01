@@ -15,7 +15,7 @@ StoreData = pd.read_csv('store_data.csv', header=0)
 WDBCOriginal = pd.read_csv('WDBCOriginal.csv', header=0)
 
 def RAsociacion():
-  Data=Movies
+  #Data=Movies o Data=StoreData
   Transacciones = Data.values.reshape(149200).tolist()
   ListaM = pd.DataFrame(Transacciones)
   ListaM['Frecuencia'] = 0
