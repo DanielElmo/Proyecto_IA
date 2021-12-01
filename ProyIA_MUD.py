@@ -39,5 +39,5 @@ def RAsociacion():
     print("Lift: " + str(item[2][0][3])) 
     print("-------------------------------------")
     
-def MDistancia():
+#def MDistancia():
   
